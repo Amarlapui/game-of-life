@@ -501,7 +501,7 @@
             <id>release</id>
             <name>Release</name>
             <url>http://engg.lifeboard.in:8081/nexus/content/repositories/releases/</url>
-            <repository>
+            </repository>
         </distributionManagement>
         
     
