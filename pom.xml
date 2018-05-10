@@ -503,11 +503,12 @@
             <url>http://engg.lifeboard.in:8081/nexus/content/repositories/releases/</url>
             </repository>
         
-        <snapshotrepository>
+        <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshots</name>
             <url>http://engg.lifeboard.in:8081/nexus/content/repositories/snapshots/</url>
-        </snapshotrepository>
+        </snapshotRepository>
+        
         </distributionManagement>
         
     
